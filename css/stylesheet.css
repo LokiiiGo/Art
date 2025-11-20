@@ -70,7 +70,7 @@ a, i {
 /* Logo principal? não*/
 .main-image {
     height: 400px;
-    background-image: url('../imgs/g_1.jpg');
+    background-image: url('../images/g_1.jpg');
     margin-bottom: 30px;
     position: relative;
 }
@@ -85,23 +85,23 @@ a, i {
 
 /* galeria - artes */
 #img-2 {
-    background-image: url('../imgs/g_2.jpg');
+    background-image: url('../images/g_2.jpg');
 }
 
 #img-3 {
-    background-image: url('../imgs/g_3.jpg');
+    background-image: url('../images/g_3.jpg');
 }
 
 #img-4 {
-    background-image: url('../imgs/g_4.jpg');
+    background-image: url('../images/g_4.jpg');
 }
 
 #img-5 {
-    background-image: url('../imgs/g_5.jpg');
+    background-image: url('../images/g_5.jpg');
 }
 
 #img-6 {
-    background-image: url('../imgs/g_6.jpg');
+    background-image: url('../images/g_6.jpg');
 }
 
 #gallery-container h1 {
